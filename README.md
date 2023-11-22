@@ -33,11 +33,11 @@ This R program is aimed at ensuring data quality assurance for the (SWCC) progra
 
 ## Usage
 1. Set your desired date range in the "Date Configuration" section of the respective script.
-2. Run the chosen script in RStudio (either `SWCC_DataQA_script.R` or `admin_push_script.R`).
+2. Run the chosen script in RStudio (either `DataQA_script.R` or `admin_push_script.R`).
 3. Monitor the console for logs or notifications.
 
 ## Repository Structure
-- `SWCC_DataQA_script.R`: Contains procedures for general data quality checks and updates for SWCC data.
+- `DataQA_script.R`: Contains procedures for general data quality checks and updates for SWCC data.
 - `admin_push_script.R`: Specialized script for pushing administrative details and AFSC tracking data to Smartabase.
 
 ## Known Issues
